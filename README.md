@@ -11,7 +11,7 @@ Curated list of general statistics using IPython notebooks.
     - Discrete Random Variables
     - Continuous Random Variables
 - [Measures of Central Tendency (Mean, Median and Mode)](./basic-statistics/measure_of_central_tendency.ipynb)
-- Population Distribution, Sample Distribution and Sampling Distribution
+- [Population Distribution, Sample Distribution and Sampling Distribution](./basic-statistics/population_sample_sampling_dist.ipynb)
 - Measure Of Dispersion
     - Absolute Measure of Dispersion
         - Range
